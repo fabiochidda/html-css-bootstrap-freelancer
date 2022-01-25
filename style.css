@@ -1,11 +1,22 @@
 .ms_nav_bg_color {
     background-color: #2C3E50;
+    color: white;
 }
 
 .ms_header_bg_color {
     background-color: #1ABC9C;
+    color: white;
 }
 
 .col-12 {
     height: 250px;
+}
+
+.ms_section_color {
+    background-color: #1ABC9C;
+    color: white;
+}
+
+.ms_link_color a{
+    color: white;
 }
