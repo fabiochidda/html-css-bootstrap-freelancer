@@ -8,9 +8,7 @@
     color: white;
 }
 
-.col-12 {
-    height: 250px;
-}
+
 
 .ms_section_color {
     background-color: #1ABC9C;
@@ -19,4 +17,14 @@
 
 .ms_link_color a{
     color: white;
+}
+
+.content_spacer {
+    margin-bottom: 0.5rem;
+}
+
+.ms_bar {
+    height: 5px;
+    border-radius: 9999px;
+    background-color: white;
 }
