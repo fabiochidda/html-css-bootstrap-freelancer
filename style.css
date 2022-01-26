@@ -1,6 +1,5 @@
 .ms_nav_bg_color {
     background-color: #2C3E50;
-    color: white;
 }
 
 .ms_header_bg_color {
@@ -10,10 +9,6 @@
 
 .ms_section_color {
     background-color: #1ABC9C;
-    color: white;
-}
-
-.ms_link_color a{
     color: white;
 }
 
@@ -31,6 +26,10 @@
     height: 5px;
     border-radius: 9999px;
     background-color: #2C3E50;
+}
+
+.ms_star_custom {
+    color: #2C3E50;
 }
 
 .portfolio_container {
