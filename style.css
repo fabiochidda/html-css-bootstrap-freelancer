@@ -28,3 +28,47 @@
     border-radius: 9999px;
     background-color: white;
 }
+
+.ms_bar_alt {
+    height: 5px;
+    border-radius: 9999px;
+    background-color: #2C3E50;
+}
+
+.portfolio_container {
+    align-items: center;
+}
+
+.portfolio_box {
+    min-height: 260px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.portfolio_box img {
+    width: 350px;
+}
+
+.ms_bg_1 {
+    background-color: #BA4B63;
+}
+
+.ms_bg_2 {
+    background-color: #1EA4B6;
+}
+
+.ms_bg_3 {
+    background-color: #140F0F;
+}
+
+.ms_bg_4 {
+    background-color: #1C83C1;
+}
+
+.ms_bg_5 {
+    background-color: #0E38B5;
+}
+
+.ms_bg_6 {
+    background-color: #CCB2A3;
+}
