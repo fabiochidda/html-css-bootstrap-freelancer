@@ -8,8 +8,6 @@
     color: white;
 }
 
-
-
 .ms_section_color {
     background-color: #1ABC9C;
     color: white;
@@ -77,3 +75,10 @@
     border-color: white;
     color: white;
 }
+
+.ms_btn_alt {
+    background-color: #1ABC9C;
+    border-color: #1ABC9C;
+    color: white;
+}
+
